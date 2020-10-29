@@ -13,4 +13,21 @@ body {
     justify-content: center;
     height: 100vh;
     font-family: 'lato', sans-serif;
+    margin: 0;
+}
+
+.movie-container {
+    margin: 20px 0; 
+}
+
+.movie-container select {
+    background-color: #ffffff;
+    border: 0; 
+    border-radius: 5px; 
+    font-size: 14px; 
+    margin-left: 10px; 
+    padding: 5px 15px 5px 15px; 
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
 }
